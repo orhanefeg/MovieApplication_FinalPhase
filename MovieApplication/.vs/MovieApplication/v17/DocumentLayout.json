@@ -1,0 +1,861 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\MovieApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\movies\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\directorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\bases\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241226120548_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BLL\\Migrations\\20241226120548_v4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\models\\directormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\models\\directormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\models\\genremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\models\\genremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\moviegenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\migrations\\20241225091044_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\migrations\\20241225091044_v3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\director.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\dal\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\dal\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\directorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\directorsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Movies.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Genres.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\shared\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_datetimepicker.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\directors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\directors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\directors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\directors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\directors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\directors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\directors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\directors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\directors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\directors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E69FEAE1-3C6E-4780-B705-831FEC6C41B0}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\services\\bases\\servicebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\controllers\\bases\\mvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\migrations\\dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\migrations\\dbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\migrations\\20241223180613_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\migrations\\20241223180613_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|c:\\users\\asus\\source\\repos\\movieapplication\\bll\\migrations\\20241223175738_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{282A6B41-CC66-4F96-8802-B25146B7D422}|BLL\\BLL.csproj|solutionrelative:bll\\migrations\\20241223175738_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T12:17:36.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAADcAAAAAAAAAAAD4v0UAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:43:51.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Movies\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Movies\\Delete.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:43:30.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:34:05.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T17:07:49.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAADwv4oAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T13:32:02.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T14:48:21.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectorsController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\DirectorsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\DirectorsController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\DirectorsController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\DirectorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:30:01.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:28:13.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:51:57.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\Bases\\IService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\IService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\Bases\\IService.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:50:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241226120548_v4.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241226120548_v4.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\20241226120548_v4.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241226120548_v4.cs",
+              "RelativeToolTip": "BLL\\Migrations\\20241226120548_v4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:05:48.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Role.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Role.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Role.cs",
+              "RelativeToolTip": "BLL\\DAL\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:04:46.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:34:21.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Users\\Login.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T09:57:51.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\appsettings.json",
+              "RelativeToolTip": "MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-23T17:51:10.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\UserModel.cs",
+              "RelativeToolTip": "BLL\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:17:06.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\User.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\User.cs",
+              "RelativeToolTip": "BLL\\DAL\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:56:51.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\AppSettings.cs",
+              "RelativeToolTip": "BLL\\Models\\AppSettings.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:59:31.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GenreModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\GenreModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\GenreModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\GenreModel.cs",
+              "RelativeToolTip": "BLL\\Models\\GenreModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:54:32.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MovieModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\MovieModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\MovieModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\MovieModel.cs",
+              "RelativeToolTip": "BLL\\Models\\MovieModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:36:26.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DirectorModel.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\DirectorModel.cs",
+              "RelativeDocumentMoniker": "BLL\\Models\\DirectorModel.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Models\\DirectorModel.cs",
+              "RelativeToolTip": "BLL\\Models\\DirectorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:37:11.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MovieGenre.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\MovieGenre.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\MovieGenre.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\MovieGenre.cs",
+              "RelativeToolTip": "BLL\\DAL\\MovieGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:11:35.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Movie.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Movie.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Movie.cs",
+              "RelativeToolTip": "BLL\\DAL\\Movie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:36:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Director.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Director.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Director.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Director.cs",
+              "RelativeToolTip": "BLL\\DAL\\Director.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T16:55:32.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241225091044_v3.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241225091044_v3.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\20241225091044_v3.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241225091044_v3.cs",
+              "RelativeToolTip": "BLL\\Migrations\\20241225091044_v3.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T09:10:44.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Db.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Db.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Db.cs",
+              "RelativeToolTip": "BLL\\DAL\\Db.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:20:40.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\MovieService.cs",
+              "RelativeToolTip": "BLL\\Services\\MovieService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:36:10.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:44:00.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\GenreService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\GenreService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\GenreService.cs",
+              "RelativeToolTip": "BLL\\Services\\GenreService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T19:53:20.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Genre.cs",
+              "RelativeDocumentMoniker": "BLL\\DAL\\Genre.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\DAL\\Genre.cs",
+              "RelativeToolTip": "BLL\\DAL\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:10:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DirectorsService.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\DirectorsService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DirectorsService.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\DirectorsService.cs",
+              "RelativeToolTip": "BLL\\Services\\DirectorsService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:11:28.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "dbo.Movies.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Movies.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Movies.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-24T19:22:08.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.Genres.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Genres.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MoviesAppDB/True/SqlTable/dbo.Genres.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-24T19:20:36.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:17:34.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "jquery.datetimepicker.full.js",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js",
+              "RelativeToolTip": "MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-24T14:32:48.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "jquery.datetimepicker.full.min.js",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js",
+              "RelativeToolTip": "MVC\\wwwroot\\lib\\jquery-datetimepicker\\jquery.datetimepicker.full.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-24T14:32:30.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_DateTimePicker.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_DateTimePicker.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T14:25:13.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Directors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Directors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:28:11.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Directors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Directors\\Edit.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:28:44.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Directors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Directors\\Details.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAC8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:46:43.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Directors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Directors\\Delete.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:46:47.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Directors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\Directors\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Directors\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:33:07.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:35:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-23T16:37:37.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:43:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T20:46:34.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ServiceBase.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Services\\Bases\\ServiceBase.cs",
+              "RelativeToolTip": "BLL\\Services\\Bases\\ServiceBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T19:18:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MvcController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeDocumentMoniker": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Controllers\\Bases\\MvcController.cs",
+              "RelativeToolTip": "BLL\\Controllers\\Bases\\MvcController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:32:56.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DbModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\DbModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\DbModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\DbModelSnapshot.cs",
+              "RelativeToolTip": "BLL\\Migrations\\DbModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:27:19.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241223180613_v2.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241223180613_v2.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\20241223180613_v2.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241223180613_v2.cs",
+              "RelativeToolTip": "BLL\\Migrations\\20241223180613_v2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:06:14.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241223175738_v1.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241223175738_v1.cs",
+              "RelativeDocumentMoniker": "BLL\\Migrations\\20241223175738_v1.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MovieApplication\\BLL\\Migrations\\20241223175738_v1.cs",
+              "RelativeToolTip": "BLL\\Migrations\\20241223175738_v1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T17:57:39.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\MovieApplication\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\asus\source\repos\MovieApplication\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\asus\source\repos\MovieApplication\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\asus\source\repos\MovieApplication\BLL\obj\Debug\net8.0\ref\BLL.dll
